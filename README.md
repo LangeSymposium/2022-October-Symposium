@@ -33,7 +33,7 @@ If you are staying overnight, options include the following local hotels.
 
 ### Contact
 
-For more information contact Dr. [Jeanette Papp](mailto:jcpapp@ucla.edu)
+For more information contact [Dr. Jeanette Papp](mailto:jcpapp@ucla.edu?subject=LangeSymposium)
 
 ### Future Events
 The 2023 Lange Symposium will be held at UCLA in January.
