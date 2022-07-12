@@ -14,7 +14,7 @@ Confirmed speakers at the 2022 Lange Symposium include:
 
 ### Registration
 
-Register for the symposium on Feb 21, 2020 at [link](https://docs.google.com/forms/d/17DzSTQWib9Z1vsYPsweHzaS6CX39G_0Lsmc6NpNa8ZQ/edit?ts=5dc053e4). There will be a $20 registration fee. 
+Register for the symposium on Feb 21, 2020 at [link](https://docs.google.com/forms/d/17DzSTQWib9Z1vsYPsweHzaS6CX39G_0Lsmc6NpNa8ZQ/edit?ts=5dc053e4). There will be a $25 registration fee. 
 
 ### Accommodation
 
