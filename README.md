@@ -18,7 +18,7 @@ Register for the symposium on Feb 21, 2020 at [link](https://docs.google.com/for
 If you are staying overnight, options include the following local hotels.
 
 - [UCLA Meyer & Renee Luskin Conference Center](https://luskinconferencecenter.ucla.edu/hotels-near-ucla/standard-rooms/)
-On the UCLA Campus and location of the symposium.
+(On the UCLA Campus and location of the symposium.)
 
 - [UCLA Guest House](http://guesthouse.ucla.edu/)
 
