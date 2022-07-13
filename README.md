@@ -23,7 +23,7 @@ We are offering travel awards for attendees who will further the goal of increas
 
 ### Accommodation
 
-If you are staying overnight, options include the following local hotels.
+If you are staying overnight, nearby options include the following local hotels.
 
 - [UCLA Meyer & Renee Luskin Conference Center](https://luskinconferencecenter.ucla.edu/hotels-near-ucla/standard-rooms/)
 (Location of the symposium.)
