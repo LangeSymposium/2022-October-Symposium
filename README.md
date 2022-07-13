@@ -17,6 +17,10 @@ Confirmed speakers at the 2022 Lange Symposium include:
 
 [Click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_3Prn2EMtbUjYHVs) to register for the 2022 October 24 Lange Symposium. The registration fee is $25 and the registration deadline is September 30.
 
+### Diversity Travel Awards
+
+We are offering travel awards for attendees who will further the goal of increasing the diversity of the biomedical workforce. This includes persons from underrepresented groups (i.e., racial and ethnic minorities, first-generation college students, and persons with disabilities). You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of underrepresented minority students, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students. Deadline to apply for a travel award is September 15.
+
 ### Accommodation
 
 If you are staying overnight, options include the following local hotels.
