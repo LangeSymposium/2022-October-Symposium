@@ -14,7 +14,7 @@ Confirmed speakers at the 2022 Lange Symposium include:
 
 ### Registration
 
-[Click here][link](https://uclahs.az1.qualtrics.com/jfe/form/SV_3Prn2EMtbUjYHVs) to register for the October 24 Lange Symposium. There will be a $25 registration fee. Registration deadline September 30.
+[Click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_3Prn2EMtbUjYHVs) to register for the October 24 Lange Symposium. There will be a $25 registration fee. Registration deadline September 30.
 
 ### Accommodation
 
