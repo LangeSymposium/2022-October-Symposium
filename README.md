@@ -27,7 +27,7 @@ Deadline to apply for a travel award is **August 31**. Results will be announced
 
 ### Accommodation
 
-If you are staying overnight, nearby options include the following local hotels.
+If you need accommodation, nearby options include the following local hotels.
 
 - [UCLA Meyer & Renee Luskin Conference Center](https://luskinconferencecenter.ucla.edu/hotels-near-ucla/standard-rooms/)
 (Location of the symposium.)
