@@ -49,4 +49,4 @@ The 2023 Lange Symposium on Computational Statistics will be held at UCLA in Jan
 
 ### Past Events
 - [2020 Inaugural Lange Symposium](https://langesymposium.github.io/2020/)
-- [2022 Lange Symposium Workshop](https://github.com/LangeSymposium/2022-July-Workshop)
+- [2022 Lange Symposium Workshop](https://langesymposium.github.io/2022-July-Workshop/)
