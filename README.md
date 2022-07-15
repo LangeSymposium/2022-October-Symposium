@@ -42,7 +42,7 @@ If you need accommodation, nearby options include the following local hotels.
 
 ### Contact
 
-For more information contact [Dr. Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lange_Symposium)
+For more information contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lange_Symposium)
 
 ### Future Events
 The 2023 Lange Symposium on Computational Statistics will be held at UCLA in January.
