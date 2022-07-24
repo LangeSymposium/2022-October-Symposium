@@ -7,7 +7,7 @@ The October 24 Lange Symposium is being held at the UCLA Luskin Conference Cente
 
 Confirmed speakers at the 2022 Lange Symposium include:
 - Emilia Huerta-Sanchez, Brown University
-- Kenneth Lange, UCLA
+- John Hopper, University of Melbourne
 - Neil Risch, UCSF
 - Chiara Sabatti, Stanford University
 - Daniel Schaid, Mayo Clinic
