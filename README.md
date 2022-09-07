@@ -23,7 +23,7 @@ We are offering travel awards for attendees who will further the goal of increas
 
 [Click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_87GMJPrwMTTa2IS) to apply for a travel award.
 
-Deadline to apply for a travel award is **August 31**. Results will be announced September 15.
+Extended deadline to apply for a travel award is **September 10**. Results will be announced September 15.
 
 ### Accommodation
 
