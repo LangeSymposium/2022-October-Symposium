@@ -22,8 +22,6 @@ Confirmed speakers at the 2022 Lange Symposium include:
 
 We are offering travel awards for attendees who will further the goal of increasing the diversity of the biomedical workforce. This includes persons from underrepresented groups (i.e., racial and ethnic minorities, first-generation college students, and persons with disabilities). You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of underrepresented minority students, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students. Travel awards will cover travel within the U.S., meals, and lodging.
 
-[Click here](https://uclahs.az1.qualtrics.com/jfe/form/SV_87GMJPrwMTTa2IS) to apply for a travel award.
-
 Extended deadline to apply for a travel award is **September 10**. Results will be announced September 15.
 
 ### Accommodation
