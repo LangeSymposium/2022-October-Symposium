@@ -44,7 +44,7 @@ If you need accommodation, nearby options include the following local hotels.
 For more information contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lange_Symposium)
 
 ### Future Events
-The 2023 Lange Symposium on Computational Statistics will be held at UCLA on February 3.
+The [2023 Lange Symposium on Computational Statistics](https://langesymposium.github.io/Lange-Symposium/) will be held at UCLA on February 3.
 
 ### Past Events
 - [2020 Inaugural Lange Symposium](https://langesymposium.github.io/2020/)
