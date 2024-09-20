@@ -1,4 +1,7 @@
 # 2022 Lange Symposium on Statistical Genetics
+
+### <span style="color:red">_For information on the next Lange Symposium,_</span> [click here](https://langesymposium.github.io/Lange-Symposium/)
+
 ## October 24 at UCLA
 **9:30 am - 5:30 pm**
 
