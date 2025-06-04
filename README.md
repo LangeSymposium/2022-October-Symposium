@@ -19,9 +19,10 @@ Speakers at the 2022 Lange Symposium:
 - Elizabeth Thompson, University of Washington
 - Eric Green, Director, NHGRI
 
-### Diversity Travel Awards
+### Travel Awards
 
-We offer travel awards for attendees who will further the goal of increasing the diversity of the biomedical workforce. This includes persons from underrepresented groups (i.e., racial and ethnic minorities, first-generation college students, and persons with disabilities). You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of underrepresented minority students, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students. Travel awards will cover travel within the U.S., meals, and lodging.
+Our travel award program solicits applications from around the country from scientists and trainees who would be otherwise unable to attend. You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of students who would benefit from access to this material, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students. Travel awards cover travel within the U.S., meals, and lodging.
+Travel awards cover travel within the U.S., meals, and lodging.
 
 ### Contact
 
