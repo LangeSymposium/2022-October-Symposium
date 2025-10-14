@@ -1,4 +1,4 @@
-# 2022 Lange Symposium on Statistical Genetics
+# 2022 Lange Symposium on Statistical Genetics 
 
 ### <span style="color:red">_For information on the next Lange Symposium,_</span> [click here](https://langesymposium.github.io/Lange-Symposium/)
 
