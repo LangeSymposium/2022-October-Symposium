@@ -33,6 +33,5 @@ The [2025 Lange Symposium on Computational Statistics](https://langesymposium.gi
 ### Past Events
 
 Information about past events, including links to selected video recordings, slides, software, exercises, and tutorials, are available at the links below
-- [2020 Inaugural Lange Symposium](https://langesymposium.github.io/2020/)
-- [2022 Lange Symposium Biomedical Data Science Workshop](https://langesymposium.github.io/2022-July-Workshop/)
-- [2023 Lange Symposium on Computational Statistics](https://langesymposium.github.io/2023-February-Symposium/)
+- *2021: Pandemic hiatus*
+- [2020 Inaugural Lange Symposium](https://langesymposium.github.io/2020-Lange-Symposium/)
